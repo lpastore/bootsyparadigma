@@ -1,0 +1,7 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: capitalize;
+}
